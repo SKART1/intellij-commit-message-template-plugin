@@ -16,11 +16,11 @@
 Open Settings > Tools > Commit Message Template.  <br />
 Enter the desired template or set the path to a template file.  <br />
 If you set something in the comment characters, any line in the template file that starts with that character will be ignored when building the message
-![Screenshot](Settings.png)
+![Screenshot](site/Settings.png)
 
 ### Use the template
 In the Commit Changes Dialog, click the commit message template button
-![Screenshot](Commit.png)
+![Screenshot](site/Commit.png)
 
 ### Credits
 Inspired by and built upon the [what-the-commit plugin](https://github.com/darekkay/what-the-commit)
